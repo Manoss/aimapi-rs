@@ -1,6 +1,7 @@
 # aimapi-rs
 wrapper of aimapi.lib (Foxboro) to RUST language 
 The aimapi C lib has parsed with bindgen
+It's a Alpha version.
 
 # features
 READ/WRITE string
@@ -20,3 +21,5 @@ And use this lib in our project or for testing you can use de cli-aim-rs project
 
 # TODO
 Full functions of aimapi.lib
+
+
