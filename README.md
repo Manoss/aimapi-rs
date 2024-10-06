@@ -9,6 +9,14 @@ READ/WRITE integer and real
 # tested
 On Foxboro with FCP 270/280
 
-# TODO
+# usage
+Build with cargo
 
+```rust
+cargo build
+```
+
+And use this lib in our project or for testing you can use de cli-aim-rs project
+
+# TODO
 Full functions of aimapi.lib
