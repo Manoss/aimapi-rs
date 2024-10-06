@@ -1,7 +1,7 @@
 # aimapi-rs
-wrapper of aimapi.lib (Foxboro) to RUST language 
-The aimapi C lib has parsed with bindgen
-It's a Alpha version.
+wrapper of aimapi.lib (Foxboro) to RUST language    
+The aimapi C lib has parsed with bindgen   
+It's a Alpha version.   
 
 # features
 READ/WRITE string
